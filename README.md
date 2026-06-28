@@ -5,6 +5,8 @@ Current topics:
 - 01 --- Reading and displaying images
 - 02 --- Reading and displaying videos
 - 03 --- Reading and displaying webcam
+- 04 --- CV built in functions (img filters)
+- 05 (ON PROGRESS) --- Resizing and cropping
 
 <br><br>
 *Goal*:
