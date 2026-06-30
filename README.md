@@ -7,6 +7,7 @@ Current topics:
 - 03 --- Reading and displaying webcam
 - 04 --- CV built in functions (img filters)
 - 05 --- Cropping and resizing images
+- 06 --- Shapes and putting text over an image
 
 <br><br>
 *Goal*:
