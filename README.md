@@ -8,6 +8,7 @@ Current topics:
 - 04 --- CV built in functions (img filters)
 - 05 --- Cropping and resizing images
 - 06 --- Shapes and putting text over an image
+- 07 --- Warp perspective
 
 <br><br>
 *Goal*:
