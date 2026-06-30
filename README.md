@@ -9,6 +9,7 @@ Current topics:
 - 05 --- Cropping and resizing images
 - 06 --- Shapes and putting text over an image
 - 07 --- Warp perspective
+- 08 --- Joining images
 
 <br><br>
 *Goal*:
