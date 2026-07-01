@@ -10,6 +10,7 @@ Current topics:
 - 06 --- Shapes and putting text over an image
 - 07 --- Warp perspective
 - 08 --- Joining images
+- 09 --- Color Detection
 
 <br><br>
 *Goal*:
